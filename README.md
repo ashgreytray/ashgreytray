@@ -1,4 +1,4 @@
-## Rosier
+## Hello! 
 
 <!--
 **ashgreytray/ashgreytray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm a student at University of Queensland studying Computer Science and Arts.
+Hi, I'm a student at University of Queensland studying Computer Science and Arts.
 - 🔭 Currently: Looking for an Internship
 - 📝 Attended/Done: CSIRO Cybertaipan Cyberdefense competition & Corporal in Australian Army Cadets
 - 🎓 Studying: Cyberdefense & German/Diplomacy
