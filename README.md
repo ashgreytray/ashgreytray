@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Hi, I'm a student at University of Queensland studying Computer Science and Arts.
 - 🔭 Currently: Looking for an Internship
-- 📝 Attended/Done: CSIRO Cybertaipan Cyberdefense competition & Corporal in Australian Army Cadets
+- 📝 Attended/Complete: CSIRO Cybertaipan Cyberdefense competition & Corporal in Australian Army Cadets
 - 🎓 Studying: Cyberdefense & German/Diplomacy
 - 🎯 Interests: SteamOS Tinkering, Foreign Languages
-- 🌐 Languages: I speak English Natively, 我是华人，我会一点点广东话和普通话了, Ich kann Deutsch wegen der Universität., Я немного говорю по-русски благодаря университету.
+- 🌐 Languages: I speak English Natively, 我是华人，我会一点点广东话和普通话了, Ich kann Deutsch wegen der Universität и Я немного говорю по-русски благодаря университету.
 - 📨 Contact: ashkaster@outlook.com | ash.flac on discord
