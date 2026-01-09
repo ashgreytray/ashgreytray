@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm a student at University of Queensland studying Computer Science and Arts.
-- 🔭 Currently: Looking for an Internship
+- 🔭 Currently: Looking for an Internship | Mentor at Queensland Study Hub for QCAA Digital Solutions 
 - 📝 Attended/Complete: CSIRO Cybertaipan Cyberdefense competition & Corporal in Australian Army Cadets
 - 🎓 Studying: Cyberdefense & German/Diplomacy
 - 🎯 Interests: SteamOS Tinkering, Foreign Languages
