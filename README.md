@@ -1,6 +1,6 @@
 ## Hello! 
 
-Hello, my name is Ash and I'm a student at University of Queensland studying Computer Science and Arts.<br> <br>
+My name is Ash and I'm a student at University of Queensland studying Computer Science and Arts.<br> <br>
 - 🔭 Currently: Looking for an Internship | Mentor at Queensland Study Hub for QCAA Digital Solutions 
 - 📝 Attended/Completed: CSIRO Cybertaipan Cyberdefense competition & Corporal in Australian Army Cadets
 - 🎓 Studying: Cyberdefense & German/International Relations 
