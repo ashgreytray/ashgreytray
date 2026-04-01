@@ -6,5 +6,5 @@ My name is Ash and I'm a student at University of Queensland studying Computer S
 - 🎓 Studying: Cybersecurity & German/Music
 - 🎯 Interests: Capture the flags, Foreign Languages (even computer ones), Visual-Based Cheat Detection & Music
 - 🗺️ Languages: I speak English Natively, 我是华人因此传承语使用者, Ich kann Deutsch wegen der Universität и Я немного говорю по-русски благодаря университету.
-- 📨 Contact: <ashkaster@outlook.com> | ash.flac on discord <br>
+- 📨 Contact: <asche1.grey@gmail.com> | ash.flac on discord <br>
 - 🌐 My Personal website is [ashgreytray.dev](https://ashgreytray.dev)
